@@ -86,24 +86,6 @@ The trained models were evaluated using multiple industry-standard metrics:
 
 ---
 
-## 📂 Repository Structure
-
-```text
-AI-Powered-Spam-Phishing-Detector/
-│
-├── Source_Code/
-├── Dataset/
-├── Models/
-├── Images/
-├── Report/
-├── Presentation/
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
-
----
-
 ## 🚀 Future Enhancements
 
 * Real-time Email Monitoring
