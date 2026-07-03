@@ -110,7 +110,7 @@ To develop a scalable and intelligent cybersecurity solution capable of accurate
 
 BS Computer Science
 
-Machine Learning • Artificial Intelligence • Cybersecurity
+Machine Learning • Artificial Intelligence 
 
 ---
 
